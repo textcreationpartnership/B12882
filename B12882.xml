@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the preseruation of grounds for making of salt-peeter, and to restore such grounds which now are destroyed, and to command assistance to be giuen to his Maiesties salt-peeter-makers.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12882</idno><idno type="EEBO-CITATION">99892484</idno>
+  <idno type="VID">188358</idno>
+  <idno type="EEBO-PROQUEST">2240936757</idno>
+  
+            <idno type="STC">STC 8744</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.b.3[8]</idno>
+            <idno type="STC">ESTC S122815</idno>
+            <idno type="PROQUEST">ocm99892484</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892484e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12882)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188358)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:2[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the preseruation of grounds for making of salt-peeter, and to restore such grounds which now are destroyed, and to command assistance to be giuen to his Maiesties salt-peeter-makers.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>4 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>by Bonham Norton and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1624</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Forbidding the paving over of dovecotes, cellars, stables, etc.--STC.</note>
+                  <note>Dated at end: ... VVestminster, the sixe and twentieth day of December, in the two and twentieth yeere of our reigne ..</note>
+                  <note>Sheets 2 and 3 are numbered.</note>
+                  <note>Arms 14; Steele notation: Our  for  2) to  3) the  4) time  for.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Saltpeter industry --  England --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:188358:1"/>
+            <head>
+               <figure>
+                  <head>I R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>¶ By the King.</head>
+            <head type="sub">¶ A Proclamation for the preseruation of Grounds for making of Salt-Peeter, and to restore such Grounds which now are destroyed, and to command assistance to be giuen to his Maiesties Salt-Peeter-makers.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas the making of Salt-Peeter and Gunne-powder within Our</hi> Realmes and Dominions, is a great benefit, strength, safety and defence to Vs and Our Subiects in generall, in that it effecteth and assureth a certaine prouision thereof to be had for the furnishing of Our stores at all times, and from time to time with such needfull prouisions, as in time of necessitie, being to be had from forraine parts, are not to be obtained but at the pleasure of other Princes, at vnreasonable rates and prices, and the same being so obtained, may happen to be intercepted, or by contrary winds hindered, or vtterly lost by shipwracke, or such like Casualties on the Seas; And if no such hazard were, yet the same is not to be had but for ready mony to be transported and paid for the same, whereby the Trea<g ref="char:EOLhyphen"/>sure of Our Realmes would be much diminished, and other forreine Realme thereby enriched: And seeing there is within Our own Realmes great plentie of the Mine of Salt Peeter (if it be preserued, &amp; not suffered to be destroyed) the benefit whereof is not meet to be lost, nor the imployment of many of Our louing Subiects thereabouts to bee neglected, (which great blessing of God vnto this King<g ref="char:EOLhyphen"/>dome, in giuing it meanes for the defence thereof, within it selfe, can neuer be truely valued but by the want thereof) Wee heretofore, and at this time, haue committed the care of this businesse to persons of Honour and especiall trust, to the end Our Kingdomes might not be vnfurnished with that proui<g ref="char:EOLhyphen"/>sion, which so much concernes the strength, safety, and defence thereof, and of Vs, and all Our Sub<g ref="char:EOLhyphen"/>iects in generall; neither on the other side Our Subiects might be wronged by the Salt-Peter ma<g ref="char:EOLhyphen"/>kers, who haue authority to make the same. Yet We are credibly giuen to vnderstand, that this great blessing of God vnto this Kingdome is abused, &amp; like to be vtterly lost, by the euill dealings of many ill disposed persons (who respecting more their own then the publike good) and hauing Douehouses for breeding of Pigeons, being in some measure a grieuance and an inconuenience, and an offence to Our Subiects in generall, in destroying their Corne, and other Graine, much more then the profit which it any way bringeth, either to the publike, or owners thereof, might therefore well, without grudging, be contented to affoord the dung thereof for the increasing of so necessary a prouision, as concernes both the safety of themselues, and of the whole Kingdome; yet being not sensible of the great danger and inconuenience that the want of these prouisions may bring vpon the Kingdome in generall, and themselues in particular, doe take liberty vnto themselues daily to vse, and practise ma<g ref="char:EOLhyphen"/>ny wayes and deuices purposely to spoile, kill, and vtterly to destroy the Mines of Salt-Peeter, and the growth and increase thereof, aswell in such Douehouses and Douecoats, as in Cellars, stables, and other places in their possessions and occupations (wherein the same Mines are naturally apt to breed and increase, and which are allowed to be wrought and vsed for Our seruice) by carrying out of such places the ground or earth that is naturally good for that seruice, &amp; laying the same vpon their land, and by pitching, pauing and laying of such places with Brickes, Stones, Planckes, Boardes, Lime, Sand or Grauell, by which meanes a great part of the best and most sufficient grounds, which heretofore haue beene good, and wrought for Our seruice, are now spoiled and destroyed, and the like practises are daily vsed vpon those grounds that yet remaine good, although the same hath been
+<pb n="2" facs="tcp:188358:2"/>forbidden by Our expresse Commandement in our Commission granted for that seruice from time to time, for the space of these Tenne yeeres, vpon paine of Contempt in that behalfe. Notwithstanding which Our Royall Commandement therein, the practise is still continued (as wee haue beene certi<g ref="char:EOLhyphen"/>fied, aswell by some of the Lords and others of Our Priuie Councell, to whom Wee committed the care of this so important and weightie a businesse, as also by the Commissioners of Our Nauie, to whom the same was referred) to the contempt of Our Royall Authoritie, and the vtter destruction of Our said seruice; Insomuch that if some great care and speedie course bee not taken to restraine such doings, and to preserue the Mine and grounds for Salt-peeter that yet remaine good, and to re<g ref="char:EOLhyphen"/>store such (as haue formerly beene destroyed) to their perfection, this Kingdome of <hi>England,</hi> (which hath hitherto beene prouided for within it selfe, and hath beene able to furnish other Our Realmes and Dominions of prouision for Salt-peeter in time of need) must in very short time bee driuen to bee beholding to forreine parts for the same prouision for the defence of Our Realmes.</p>
+            <p>Wee therefore, according to Our accustomed care, taking into Our Princelie consideration this so weightie and important a businesse of State, Our care being alwayes to watch ouer the weale of Our Subiects, are resolued to meete with and preuent these so eminent and perillous enormities for the time to come; And for redresse thereof, doe heereby signifie Our pleasure to all Our louing Subiects and others: And therefore doe by this Our Proclamation straitly Charge and Com<g ref="char:EOLhyphen"/>maund, That no person or persons whatsoeuer, of what degree or qualitie soeuer, within Our Kingdome of <hi>England,</hi> and dominion of <hi>Wales,</hi> doe at any time or times heereafter, paue, or lay with Bricke, Stone, Plancke-boardes, Lime, Sand, Grauell, or other thing whatsoeuer, that shall or may any way hurt, hinder, or preiudice the growth and increase of the Mine of Salt-peeter, any Doue<g ref="char:EOLhyphen"/>house or Douecoat, or any Warehouse or Outhouses, allowed by Our Commission to be wrought for Our seruice, or any Cellar or Vault (excepting only in that part of the Cellar or Vault where the Beere lieth) and excepting such Cellars and Vaults onely, wherein Noblemen and Gen<g ref="char:EOLhyphen"/>tlemen doe lay or draw their Wine, Beere or Sider for the prouision of their household: And that no Stables bee paued, pitched or grauelled, where the Horse feete vse to stand, but plancked onely, and neither Grauell, Stones, nor pitch bee deceitfully (as heeretofore hath beene vsed) laid vnder the planckes, nor before the planckes next the Manger, purposelie to destroy the growth of the Peeter, and to keepe the Peter-men from working, but onely good earth, and such as is fit and apt to breed and increase the Mines of Peeter: And that no Inkeepers, or others that keepe Stables for Trauellers and passengers, doe vse any deceitfull meanes or deuices, wherby to hinder or destroy the growth of Salt-peeter in those Stables, which are the principall places to bee kept for cherishing of that Mine, vpon such paines and penalties, as by the Lawes and Statutes of this Our Realme, or by the seueritie or Censure of Our Court of Starrechamber may be inflicted vp<g ref="char:EOLhyphen"/>on the offendors, for contempt of this Our Royall Command. And whereas Wee are certified, That many of the aforenamed places haue heeretofore had the Earth, that was naturally good for Our seruice, caried out by the owners thereof, and la<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vpon the Land, purposely to destroy the Mine of Saltpeeter, and in the same places haue beene layd Sand, Grauell, Lime, Stone, Brickes, boards, plankes and other things, which haue not onely disabled those places for being fit for Our seruice, as otherwise they would haue beene, but doe also keepe such places from euer being good, or yeelding any Salt-peeter, so long as they bee so kept and continued: Wee doe therefore heereby straitly charge and command, vpon the paines and penalties aforesaid, That all, and euery person or persons whatsoe<g ref="char:EOLhyphen"/>uer, of what estate or degree soeuer, that haue in their possessions or occupations any Douehouse or Douecoat, that heeretofore hath beene, or now is laid with Bricke, Stone, Sand or Grauell, Lime, Plancks, or other things whatsoeuer, to hurt or hinder the growth and increase of the Mine of Salt<g ref="char:EOLhyphen"/>peeter in any of the places aforesaid, That they, and euery of them being the owner, or present pos<g ref="char:EOLhyphen"/>sessour or occupier of any such Douehouse or Douecoat, so heeretofore, or at this present pitched, pa<g ref="char:EOLhyphen"/>ued or laid with Bricks, Stones, Lime, Sand, Grauell, Boards, plancks, or other thing whatsoeuer, that doth or may hurt, hinder or preiudice the growth or increase of Salt-peter, doe within three Mo<g ref="char:EOLhyphen"/>neths after the date heereof, at his or their owne proper costs and charges, take vp and carrie out of e<g ref="char:EOLhyphen"/>uerie such place or places, all such Bricks, Sand, Stones, Grauell, Lime, Plancks, Boards or other things whatsoeuer, that shall stand, or lie in any such place or places, being hurtfull or hindering to the growth and increase of the Mine of Salt-peter; And that they and euerie of them being the owner or present occupier or possessor of euery such place, doe within the time before limitted, lay againe in<g ref="char:EOLhyphen"/>to euery such place or places, out of which any ground, Bricke, Stone, Lime, Sand, Grauell, plancks or boards is taken vp or caried out, as is before mentioned, so much of the richest, mellowest, and best mould of earth or horse-dung, being rotten and drie, as shall leuell and fill vp the floore of euery such
+<pb n="3" facs="tcp:188358:3"/>Douehouse or Douecoate, three foote deepe at the least, to the end that all such places may bee the sooner readie to furnish Our store with the greater proportion and better Saltpeeter.</p>
+            <p>And if any person, or persons, of what degree or condition soeuer, shall, after the publishing of this Our will and pleasure, presume to carry, or suffer to be carried out of any Douchouse, Doue<g ref="char:EOLhyphen"/>coat, Cellar, or Vault, any ground or earth, that is good for this Our seruice, or shall lay, or suffer to be laid into any such place, any Bricke, Stones, Sand, Grauell, Lime, Planckes, Boards, or other things, that shall or may hurt or hinder the growth of Saltpeeter, or doe keepe, or suffer to bee kept, contrary to the intent aboue mentioned, in any of their possessions, or occupations, any such place, or places, that heretofore haue beene, or now are laid with Bricke, Stone, Lime, Sand, Grauell, Planckes, Boards, or other things hurtfull, or hindering to the growth and increase of Saltpeeter, and doe neglect or delay, to cast out the same out of euery such place, or places, and to fill againe and leuell, euery such place three foot deepe, at the least, with such materialls as is before commanded, within the time limited; That then such paines and penalties, as aforesaid, shall bee inflicted vpon the offendours, for contempt of this Our Royall command.</p>
+            <p>And Wee doe further will and Command, vpon the paines and penalties aforesaid, that from henceforth, no Saltpeeter makers, or their seruants, that shall dig any place, or places, allowed by Our Commission for the making of Saltpeeter, doe leaue the earth vncast in, in those places where they shall worke, but doe throw all such earth in the place againe, and then spread, and lay the same in orderly sort, for the better increase and growth of Saltpeeter (according as is prouided in our said Commission, and in the couenants by them sealed) and that no owners of the said grounds shall interrupt, or hinder them in their so doing.</p>
+            <p>And moreouer, Our will and pleasure is, and Wee doe hereby, giue full power, libertie, and au<g ref="char:EOLhyphen"/>thoritie, vnto our Saltpeeter-makers, and euery of them within the seuerall diuisions, where they, or any of them, shall be lawfully authorized to worke for our seruice, that it shall, and may bee law<g ref="char:EOLhyphen"/>full, for them, and euery of them, at all times in the day time, with the Constable of the Towne, Parish, or place, to goe into the lands, houses, and possessions of any Our louing Subiects, to search and see, how Our Commandement is obeyed and fulfilled, and the grounds made fit for Our seruice, without any let, contradiction, or interruption of any of Our Subiects.</p>
+            <p>And whereas Wee are informed, that some of Our Subiects of eminencie, place, and authoritie (to the ill example of others) doe denie Our Saltpeeter makers the grounds allowed vnto them, to bee wrought for Our seruice, by Our Commission, and are very backeward, and slow in giuing vnto Our Saltpeeter-makers, such assistance for taking such order, with such as denie the grounds, and cariages as by Our Commission is commanded; By which conniuence, Our authoritie is growne to bee contemned, and Our Saltpeeter-makers sustaine such great losse, and hindrance in doing of Our seruice, that they are vtterly discouraged, and disabled in doing, or performing the seruice required of them: These are therefore straitly to charge and command all Our louing Subiects (vpon the paines and penalties aforesaid) that they and euery of them, doe from time to time quietly permit, and suffer Our Saltpeeter-makers, and euery of them, that are lawfully au<g ref="char:EOLhyphen"/>thorized to doe Our seruice, to haue such grounds, cariages, and other helpes and assistance, as by Our Commission is allowed vnto them, without any of their lets, hindrances, or delaies. And whereas information is giuen by the Deputie Saltpeeter-makers, and great complaint is made by them, that diuers euill disposed persons, doe daily perswade and draw their seruants, by giuing them money corruptly to spare their grounds, from being digged for Saltpeeter, and thereby doe not onely defraud Our seruice, but hinder the Saltpeeter-makers, that they cannot performe the proportion, which they are bound to deliuer into Our store;</p>
+            <p>We therefore, hereby straitly charge and command, vpon the penalties aforesaid, that no person, or persons whatsoeuer, vpon the paines and penalties aforesaid, shall corruptly, directly, or indi<g ref="char:EOLhyphen"/>rectly giue vnto any persons whatsoeuer, pretending themselues to be Saltpeeter-men, any monie to spare their grounds, as aforesaid. And that no such Saltpeeter-man, or other person whatsoeuer, shall take any such bribes, vpon any pretence to the ends aforesaid.</p>
+            <p>And for the more better, and speedy performance of this Our seruice, Our Will and pleasure is, That the Commissioners for our Nauie shall from time to time take notice of all such complaints, as shall be brought vnto them, touehing any offence that shall bee committed contrary to this Our Proclamation; And that the Commissioners shall certifie the same to Our Right trusty and Right Welbeloued Cozen and Counsellor <hi>George,</hi> Duke of <hi>Buckingham,</hi> Lord high Admirall of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and Our Right trusty and Welbeloued Counsellor <hi>George,</hi> Lord <hi>Carew,</hi> Master of Our Ordi<g ref="char:EOLhyphen"/>nance, to whose especiall trust and care We haue committed the gouernment of this businesse, by Our
+<pb facs="tcp:188358:4"/>Commission vnder Our great Seale of <hi>England;</hi> And that they, or either of them, shall from time to time send for all offenders complained of, and cause the offenders complained of, to be examined by Our said Commissioners of Our Nauie, and vpon their report take such further order therein, by referring the offenders to be prosecuted in Our Court of Starre-Chamber, or otherwise, as to their wisedomes shall seeme meet.</p>
+            <p>And further, We doe by these presents Will and require all and singuler Maiors, Sheriffes, Iusti<g ref="char:EOLhyphen"/>ces of Peace, Bayliffes, Constables, Headboroughs, and all other Our Officers, and Ministers whatsoeuer, that they, and euery of them, in their seuerall Offices, and places, be diligent and obser<g ref="char:EOLhyphen"/>uant in the due execution of this Our Proclamation, and also to be ayding and assisting vnto such per<g ref="char:EOLhyphen"/>son and persons and his and their Deputies, as are or shall be so (as aforesaid) authorized and appoin<g ref="char:EOLhyphen"/>ted, aswell for discouery of any act or acts to be performed, contrary to the intent of these presents, or the tenor of Our said Commission vnder Our great Seale, as otherwise, in doing and executing of a<g ref="char:EOLhyphen"/>ny matter or thing, for the accomplishing of this Our Royall commandement.</p>
+            <p>And further, Our Will and pleasure is, And We doe hereby charge and command Our Attourney generall for the time being, to informe against such persons in Our said Court of Starre-Chamber, from time to time, whose contempt and disobedience against this Our Royall commandement, shall be certified vnto him, and to prosecute euery such information speedily and effectually, vntill the same shall be brought to sentence; It being Our expresse Will and pleasure, that seuere punishment shalbe executed vpon all the said offenders whatsoeuer. And, as Wee haue signified Our pleasure, how se<g ref="char:EOLhyphen"/>uerely We will punish such as shall disobey this Our Proclamation: So We let Our louing Subiects to know, that on the other side, Our eares shall be as open to heare the iust complaints of any Our Subiects against any the Salt-Peeter-makers, that shall any way misdemeane themselues towards any of Our Subiects in places where they worke; It being alwayes Our Princely care to prouide, that no abuse be offered to any of Our Subiects whatsoeuer. And Our pleasure is, that such per<g ref="char:EOLhyphen"/>son or persons, who shall be appointed to take care and charge of the execution of Our pleasure in the premisses, or any person or persons, that shall giue information therein, and follow the same, shall haue the one halfe of the Fine, to be imposed vpon the offenders against this Our Proclamation, for their encouragement to be diligent and faithfull therein.</p>
+            <closer>
+               <dateline>Giuen at Our Palace of Westminster, <date>the sixe and twentieth day of December, in the two and twentieth yeere of Our Reigne of England, France, and Ireland, and of Scotland the eight and fiftieth.</date>
+               </dateline>
+               <lb/> God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton and Iohn Bill, Printers to the Kings most Excellent Maiestie. 1624.</p>
+            <pb facs="tcp:188358:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
